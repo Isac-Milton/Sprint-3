@@ -1,0 +1,6 @@
+@PedidosLanchonete_HostAddress = http://localhost:5094
+
+GET {{PedidosLanchonete_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
